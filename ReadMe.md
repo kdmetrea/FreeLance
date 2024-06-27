@@ -23,7 +23,7 @@ All stack programs must be installed on your server before installation
 
 **React**
 
-    yay -S nvm
+    yay -S nodejs
 
 **MySql**
 
@@ -62,7 +62,7 @@ All stack programs must be installed on your server before installation
 
 5. Installing React
 
-	`npm install React`
+	`npm install react`
 
 6. Creating a Database in MySQL
 
