@@ -47,7 +47,7 @@ All stack programs must be installed on your server before installation
 ## For development
  1. Clone a git repository
  
-	 `git clone <MylinkRep>`
+	 `git clone https://github.com/kdmetrea/FreeLance/tree/main`
  
  2. Go to the project folder
  
