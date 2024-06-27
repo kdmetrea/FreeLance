@@ -1,7 +1,7 @@
 ﻿
 
 # Freelance
-![Static Badge](https://img.shields.io/badge/-blue?style=flat&logo=telegram&link=t.me%2FKdmetrea) ![Static Badge](https://img.shields.io/badge/Kdmetrea-FreeLance-green) ![GitHub top language](https://img.shields.io/github/languages/top/Kdmetrea/Freelance) ![GitHub](https://img.shields.io/github/license/Kdmetrea/Freelance) ![GitHub Repo stars](https://img.shields.io/github/stars/Kdmetrea/Freelance)![GitHub issues](https://img.shields.io/github/issues/Kdmetrea/Freelance)
+![Static Badge](https://img.shields.io/badge/-blue?style=flat&logo=telegram&link=t.me%2FKdmetrea) ![Static Badge](https://img.shields.io/badge/Kdmetrea-FreeLance-green) ![GitHub top language](https://img.shields.io/github/languages/top/Kdmetrea/Freelance) ![GitHub](https://img.shields.io/github/license/Kdmetrea/Freelance) ![GitHub Repo stars](https://img.shields.io/github/stars/Kdmetrea/Freelance) ![GitHub issues](https://img.shields.io/github/issues/Kdmetrea/Freelance)
 
 
 This website template is designed for general use to create similar sites. When using the site, **you must specify the name** of the creator of the original template.
